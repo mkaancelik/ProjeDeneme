@@ -1,0 +1,3 @@
+C:/deneme/opengldeneme/x64/Debug/CMakeFiles/VirtualMuseum.dir
+C:/deneme/opengldeneme/x64/Debug/CMakeFiles/ALL_BUILD.dir
+C:/deneme/opengldeneme/x64/Debug/CMakeFiles/ZERO_CHECK.dir

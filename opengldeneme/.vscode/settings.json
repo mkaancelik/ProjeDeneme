@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "C:/deneme/opengldeneme/Libraries/include/glm",
+    "files.associations": {
+        "string": "cpp"
+    }
+}
